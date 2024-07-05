@@ -1,0 +1,65 @@
+- 👋 Hi, I’m @Bhumika805
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Bhumika805/Bhumika805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        
+        <div class="bar"></div>
+        <div class="nav-bar">
+            <div class="logo">
+                <!-- <img src="Screenshot_2024-07-05_074230-removebg-preview.png" height="250px" width="250px"> -->
+            </div>
+            <div class="h1">Heading</div>
+            <div class="menus">
+                
+                <div class="home">
+                    <div class="box1">
+                        <p id="options">Home</p>
+                    </div>
+                
+                </div>
+                <div class="home">
+                    <div class="box1">
+                        <p id="options">Menu</p>
+                    </div>
+                
+                </div>
+                <div class="home">
+                    <div class="box2">
+                        <p id="options">About us</p>
+                    </div>
+                
+                </div>
+                <div class="home">
+                    <div class="box3">
+                        <p id="options">Terms & Conditions</p>
+                    </div>
+                
+                </div>
+            </div>
+        </div>
+        <div class="color"></div>
+        <div class="color1"></div>
+        <div class="color2"></div>
+        <div class="color3"></div>
+    </header>
+</body>
+</html>
