@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.color {
+  background-color: rgb(102, 152, 152);
+  height: 500px;
+}
+.bar {
+    background-color: aliceblue;
+    width: 100%;
+    height: 40px;
+    position: relative;
+}
+.nav-bar {
+    height: 130px;
+    width: 100%;
+    background-color: #001c30a5;
+    color: white;
+    display: flex;
+    position: fixed;
+    /* justify-content: space-evenly; */
+}
+.logo {
+  align-self: center;
+  background-image: url(Screenshot_2024-07-05_074230-removebg-preview.png);
+  height: 200px;
+  width: 200px;
+  margin-right: 500px;
+  background-size: cover;
+  
+}
+.menus {
+    width: 400px;
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 17.1px;
+}
+.h1 {
+    margin-top: 30px;
+    margin-right: 150px;
+    font-size: 50px;
+}
+
+.box1 {
+  border: 0px solid transparent;
+  height: 30px;
+  width: 50px;
+  text-align: center;
+  background: linear-gradient(to right, red 50%, transparent 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 1s ease-in-out;
+}
+
+.box1:hover {
+  background-position: left bottom;
+}
+
+.box2 {
+  border: 0px solid transparent;
+  height: 30px;
+  width: 70px;
+  text-align: center;
+  background: linear-gradient(to right, red 50%, transparent 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 1s ease-in-out;
+}
+
+.box2:hover {
+  background-position: left bottom;
+}
+.box3 {
+  border: 0px solid transparent;
+  height: 30px;
+  width: 140px;
+  text-align: center;
+  background: linear-gradient(to right, red 50%, transparent 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: background-position 1s ease-in-out;
+}
+
+.box3:hover {
+  background-position: left bottom;
+  height: 500px;
+  width: 100%;
+}
+
+.color1 {
+  background-color: palevioletred;
+  
+  height: 500px;
+  width: 100%;
+}
+.color2 {
+  background-color: green;
+  
+  height: 500px;
+  width: 100%;
+}
+.color3 {
+  background-color: blueviolet;
+  
+  height: 700px;
+  width: 100%;
+}
